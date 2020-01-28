@@ -44,6 +44,7 @@ schemadotorg:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/statOmics/dockerTest/master?urlpath=rstudio)
 
+[intro](analysis/01-intro.html)
 ---
 
 The source for this course webpage is [in github](https://github.com/statomics/dockerTest).
